@@ -2269,6 +2269,33 @@ MY STYLES:INDEX.HTML;
 	letter-spacing: 3px;
 }
 
+/* HEADER MODALS */
+.custom-header-modals {
+	width: 80%;
+}
+.custom-header-modals .modal-header {
+	border-bottom: none;
+}
+.custom-header-modals .modal-content {
+	background-color: rgba(185,185,185,1);
+}
+.custom-header-modals .modal-content .modal-body {
+	padding: 0;
+}
+#myModalLabels {
+	color: white;
+}
+.first-result {
+	padding-top: 20px;
+}
+.read-more-link {
+	color: #4765a0;
+	margin-top: 8px;
+}
+#video-modal2-x {
+	font-size: 30px;
+}
+
 /* SLIDER STYLING */
 .btn-font {
 	font-family: 'Open Sans Condensed', sans-serif !important;
@@ -2356,6 +2383,9 @@ div#revslider-825 {
 .modal-content {
 	background-color: rgba(255,255,255,0.8);
 	border-radius: 5px !important;
+}
+.custom-video-modals {
+	margin-top: 40px;
 }
 .video-modals-custom {
 	background-color: transparent;
