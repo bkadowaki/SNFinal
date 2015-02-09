@@ -211,7 +211,7 @@ topbar including in mobile version*/
 .header-v2 .navbar-brand { 
 	z-index: 1;
 	margin-right: 50px;
-	padding: 10px 10px 10px 16px;
+	padding: 10px 0px 0px 0px;
 }
 
 @media (max-width: 991px) {

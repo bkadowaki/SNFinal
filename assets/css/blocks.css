@@ -748,7 +748,7 @@
   position: relative;
   background: url(../img/bg/bg-b.png) repeat fixed; 
   /* MY CHANGES */
-  margin-top: -90px;
+  margin-top: -150px;
   margin-bottom: -25px;
 }
 
@@ -943,7 +943,7 @@
 /*Flat Testimonials
 ------------------------------------*/
 .flat-testimonials {
-  padding: 50px 0; 
+  padding: 150px 0; 
   background-color: #333;
 }
 
