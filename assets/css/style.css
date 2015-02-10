@@ -2321,15 +2321,15 @@ div#revslider-825 {
 	height: 80% !important;
 }
 .tp-banner-container {
-	height: 650px !important;
+	/*height: 70% !important;*/
 	background-color: black;
+}
+.tp-banner {
+	height: 80% !important;
 }
 .tp-caption {
 	font-family: 'Open Sans Condensed', sans-serif !important;
 	font-weight: 700;
-}
-.slide-2-captions {
-	left: 800px !important;
 }
 #slide4-caption {
 	bottom: 5px;
